@@ -1,0 +1,35 @@
+{
+  "name": "rtlcss-plugin",
+  "version": "1.0.0",
+  "description": "Modern Webpack RTLCSS Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elquchiri/rtlcss-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "rtl",
+    "rtlcss",
+    "css",
+    "compile",
+    "plugin",
+    "program",
+    "programcms",
+    "right",
+    "to",
+    "left",
+    "left",
+    "to",
+    "right"
+  ],
+  "author": "Mohamed EL QUCHIRI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elquchiri/rtlcss-plugin/issues"
+  },
+  "homepage": "https://github.com/elquchiri/rtlcss-plugin#readme"
+}
