@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Modern Webpack RTLCSS Plugin",
   "main": "index.js",
+  "dependencies": {
+	  "rtlcss": "^4.1.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
